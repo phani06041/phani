@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @phani06041
-- 👀 I’m interested in ...
+- 👋 Hi, I’m PHANINDRA MADDIPATLA
+- 👀 I’m interested in working on real life application problems
 - 🌱 I’m currently learning ..DATA STRUCTURES.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..9392413314.
