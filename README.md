@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PHANINDRA MADDIPATLA
 - 👀 I’m interested in working on real life application problems
-- 🌱 I’m currently learning ..DATA STRUCTURES.
+- 🌱 I’m currently learning ..Machine learning with Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...phanindra.maddipatla@gmail.com
 
