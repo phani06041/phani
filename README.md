@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on real life application problems
 - 🌱 I’m currently learning ..DATA STRUCTURES.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..9392413314.
+- 📫 How to reach me ...phanindra.maddipatla@gmail.com
 
 <!---
 phani06041/phani06041 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
